@@ -1,0 +1,364 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+label {
+  display: block;
+  font:
+    1rem 'Fira Sans',
+    sans-serif;
+}
+nav>ul {
+  position: absolute;
+  top: 115px;
+  text-align: right;
+  ;
+}
+
+nav>ul>li {
+  list-style: none;
+  float: right;
+}
+
+nav>ul>li>a {
+  text-decoration: none;
+  font-family: cursive;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 45px 10px 45px;
+  background: #20639B;
+  border-left: 3px solid #34F532;
+}
+
+.color2 {
+  height: 0px;
+  border-bottom: 45px solid #20639B;
+}
+
+input,
+label {
+  margin: 0.4rem 0;
+}
+body {
+    font-family: arial;
+    font-size: 10pt;
+    background-color:transparent;
+    padding: 5px;
+    margin: 0;
+}
+h1 {
+    border: .1rem solid;
+    outline-color: #ffffff;
+}
+
+
+    
+h1 {
+    font-size: 15pt;
+    color: rgb(226, 196, 196);
+    text-align: center;
+    padding: 1px 0 1px 0;
+    margin: 0 0 10px 0;
+}
+table,
+th {
+  border: 1px solid rgb(250, 243, 243);
+}
+
+td,
+tr {
+  background-color: rgb(235, 196, 196);
+  color: #fff;
+}
+
+h1{
+    background-color: rgb(80, 80, 80);
+    border-color: blueviolet;
+    -ms-scroll-rails: initial;
+    cursor: -moz-zoom-out;
+    font-size: x-large;
+    font-variant-numeric: normal;
+    align-items: "https://l.facebook.com/l.php?u=http%3A%2F%2Fpunakhacentralschool.edu.bt%2F%3Ffbclid%3DIwAR2ZpIPvvRRBS_qZjozL_QsiVk6ZFqyJzTCcTJz7-TA1QeQ_ujfra_e2Un8&h=AT1sv8ofTos0srEKnC5VtegjythzeyU35MK8e5l3e3IjXwbKzvGYapjCi8srZ2p0kaQnYJkYRpQsj78DdvMSJFh0kltXmrCfX4Zp57byFjq-T64Fxywx6xfoZaIgKF12O9YxNg";
+    background-image: src="https://scontent.fdel29-1.fna.fbcdn.net/v/t39.30808-6/308842702_589507636194347_8980370056061716987_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=SWMkXwFI3sIAX9U1B-y&_nc_ht=scontent.fdel29-1.fna&oh=00_AfAewifDEqFZgnW7fy-hDgGsNoSJm9p_h7zy0YgP39LW7g&oe=6533D260";
+}
+
+
+
+
+h1 span {
+    border: 1px dashed #20bcd5;
+    padding: 10px;
+}
+p {
+    padding: 0;
+    margin: 0;
+}
+.img-circle {
+    border: 5px solid rgba(0, 0, 0, 0.699);
+    border-radius: 50%;
+}
+/* Style for the main menu */
+.menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Style for the dropdown menu */
+.menu .dropdown {
+    position: relative;
+}
+
+.menu .dropdown .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    list-style: none;
+    padding: 0;
+}
+
+.menu .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+ p {
+    font-size: 15pt;
+    color:black;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    margin: 0;
+    text-align: right;
+    text-shadow: 1px 1px black;
+}
+.section {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+.follow {
+    background-color: transparent;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 5px solid rgb(217, 201, 231);
+}
+#about {
+    background-color: transparent;
+    background-size: cover;
+    border: 5px solid transparent;
+}
+#header {
+    background-color: rgb(255, 247, 247);
+    background-size: cover;
+    background-image: url("https://www.andbeyond.com/wp-content/uploads/sites/5/Bhutan-Punakha-Dzong-Sunset-1326288165-Website-1920x1080-fill-gravityauto.jpg")
+   
+    
+}
+#header img {
+    display:  -moz-inline-box;
+    width: 100px;
+    height: 100px;
+    margin: 1em;
+    text-align: right;
+}
+#header p {
+    font-size: 15pt;
+    color:#000000;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    margin: 0;
+    text-align: left;
+    
+}
+#follow table {
+    width: 100%;
+    font-size: 0pt;
+}
+#table, th, td {
+    border: transparent;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+}
+.quote {
+    font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}
+table {
+    width: 100%;
+    font-size: 0pt;
+}
+table, th, td {
+    border: 2px solid transparent;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+}
+.selected {
+    background-color: #f36f48;
+    font-weight: bold;
+    color: transparent;
+}
+li {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+hr {
+    border: 10px;
+    height: 1px;
+    background: #cccccc;
+}
+form {
+    text-align: center;
+    margin-top: 0;
+}
+.submit {
+    background-color: #3fb6b2;
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    margin: 0;
+    font-weight: bold;
+}
+.submit:hover {
+    background-color: #43a09d;
+}
+h1 {
+    border: .2rem solid;
+    outline-color: black;
+}
+textarea {
+    height: 100px;
+}
+input, textarea {
+    margin-bottom: 10px;
+    font-size: 8pt;
+    padding: 10px 10px 10px;
+    border: 1px solid #cecece;
+    background-color: #efefef;
+    color: black;
+    border-radius: 5px;
+    width: 70%;
+    outline: none;
+}
+.face {
+    transform: scale(0.4);
+    margin: 0 auto;
+    display: block;
+    margin-top: -35px;
+    margin-bottom: -25px;
+}
+#codes {
+    background-color: #ddd;
+    background-size: cover;
+    border: 5px solid transparent;
+}
+#codes img {
+    height: 40px;
+    width: 40px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#codes a {
+    text-decoration: none;
+}
+#codes p {
+    text-decoration: none;
+    font-size: 6pt;
+}
+#codes table, th, td {
+    border: 1px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: top;
+    table-layout: fixed;
+}
+#posts {
+    background-color: transparentt;
+    background-size: cover;
+    border: 5px solid rgb(255, 255, 255);
+}
+#posts img {
+    height: 100px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#posts a {
+    text-decoration: rgba(transparent, green, blue, alpha) ;
+}
+#posts p {
+    text-decoration: none;
+    font-size: 8pt;
+}
+#posts table, th, td {
+    border: 1px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: top;
+    table-layout: fixed;
+}
+
+#contacts img {
+    height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#contacts a {
+    text-decoration: none;
+}
+#contacts img:hover {
+    opacity: 0.8;
+}
+#contacts {
+    text-align: center;
+    font-size: 10pt;
+}
+#contacts table {
+    width: 100%;
+    font-size: 6pt;
+}
+#contacts table, th, td {
+    border: 1px solid #cecece;
+    border-collapse: collapse;
+    text-align: center;
+    table-layout: fixed;
+}
+
+
+.copyright {
+    font-size: 8pt;
+    text-align: right;
+    padding-bottom: 10px;
+    color: grey;
+}
+label {
+  display: block;
+}
+
+input[type='submit'],
+label {
+  margin-top: 1rem;
+}
